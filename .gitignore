@@ -1,0 +1,14 @@
+venv
+*.pyc
+.DS_Store
+.idea
+chromedriver
+data/docs/*
+data/excel/*
+data/temp/*
+file_log.csv
+temp.py
+chromedriver.exe
+pickle
+log/*
+.env
