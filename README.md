@@ -26,7 +26,7 @@ uvicorn app:app
 
 ## Functionality
 
-- Data extraction and pdf from a website
+- Data extraction and pdf extraction from a website
 - Parsing the extracted pdf/data
 - Saving the data in excel and send it via email
 - Stripe integration for payment support
